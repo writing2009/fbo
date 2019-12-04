@@ -1,5 +1,8 @@
 # PreprocessFBOfile.py
-    # To fix 2019 12 02
+# John Palmer
+# writing2009@gmail.compile
+# 20191202
+# To fix 2019 12 02
     # Find out how many multiples their are <DESC>, <URL>, others like line number
     # Develop routine to determine worst case data structure
     # Figure out why some of the tsv have something in the first line (length of text)
